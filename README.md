@@ -40,6 +40,7 @@ This project involved the development of a comprehensive HR portal application u
 - Built an admin control page to allow HR administrators to edit and manage employee details.
 - Enhanced administrative capabilities and data management through a centralized control interface.
 <img width="949" alt="AdminControl" src="https://github.com/user-attachments/assets/f2284a95-dd85-47e5-b436-8db25ecc3fd9">
+<img width="947" alt="AdminControl_1" src="https://github.com/user-attachments/assets/0520926d-77da-4a16-839d-ad6921e9b58f">
 
 
 ## Power Automate Workflows
