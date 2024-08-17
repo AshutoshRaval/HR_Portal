@@ -23,6 +23,7 @@ This project involved the development of a comprehensive HR portal application u
 ### 4. Issue Tracking
 - Designed and implemented an issue tracking system for employees.
 - Utilized PowerApps gallery control to build a dynamic three-page interface, allowing issues to be raised and assigned to HR representatives.
+<img width="926" alt="IssueList" src="https://github.com/user-attachments/assets/dd143d6f-e8c0-4dd4-a980-ef0e409d89a4">
 
 ### 5. Travel Request Management
 - Developed a travel request form for managing and tracking employee travel reimbursements.
