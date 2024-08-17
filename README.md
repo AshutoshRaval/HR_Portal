@@ -8,11 +8,11 @@ This project involved the development of a comprehensive HR portal application u
 ### 1. Employee Registration
 - Developed a PowerApps form to facilitate seamless employee registration.
 - Captured and stored employee details in the SharePoint list efficiently.
-<img width="957" alt="EmployeeReg" src="https://github.com/user-attachments/assets/2c63672a-af72-439e-aba0-2f285efb317f">
 
 ### 2. Employee Self-Service
 - Enabled employees to edit their personal details through an intuitive interface.
 - Enhanced the self-service capability, empowering employees to manage their own information.
+  <img width="957" alt="EmployeeReg" src="https://github.com/user-attachments/assets/2c63672a-af72-439e-aba0-2f285efb317f">
 
 ### 3. Leave Management
 - Created a leave application feature integrated with Power Automate.
