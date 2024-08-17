@@ -81,5 +81,11 @@ This project involved the development of a comprehensive HR portal application u
 - Set up user permissions based on domain-specific requirements.
 - Managed group permissions for managers and admins, and enforced item-level permissions in the document set library to ensure data security and compliance.
 
+## Demo
+
+You can access the HR Portal Application through the following link:
+[HR Portal Application](https://northeastern.sharepoint.com/sites/WebDAssignment/)
+
+
 ## Conclusion
 This HR Portal Application has significantly streamlined HR operations, automated various business processes, and improved overall employee engagement. The use of Microsoft PowerApps and Power Automate, combined with robust SharePoint integration, has resulted in a scalable and efficient solution that meets the needs of HR departments in a modern, digital workplace.
