@@ -12,6 +12,7 @@ This project involved the development of a comprehensive HR portal application u
 ### 2. Employee Self-Service
 - Enabled employees to edit their personal details through an intuitive interface.
 - Enhanced the self-service capability, empowering employees to manage their own information.
+  
   <img width="957" alt="EmployeeReg" src="https://github.com/user-attachments/assets/2c63672a-af72-439e-aba0-2f285efb317f">
 
 ### 3. Leave Management
