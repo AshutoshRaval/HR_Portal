@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project involved the development of a comprehensive HR portal application using Microsoft PowerApps, integrated with SharePoint for backend data storage. The portal was designed to streamline HR processes, enhance employee experience, and automate workflows through a user-friendly interface.
+<img width="935" alt="HomePage" src="https://github.com/user-attachments/assets/183f2d5e-99d6-47b3-84fd-894fca36cb04">
 
 ## Features & Functionality
 
