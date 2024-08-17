@@ -29,6 +29,11 @@ This project involved the development of a comprehensive HR portal application u
 - Developed a travel request form for managing and tracking employee travel reimbursements.
 - Streamlined the reimbursement process within the HR portal.
 
+### 5. Events App
+- Designed the Mobile/Tablet interactive UI Events App to provide update on upcomming/Past events.
+- The App provided the details of the upcomming events and helped to keep the track in the organization.
+- User could schedule the and event on his specfic requirement.
+
 ### 6. Admin Controls
 - Built an admin control page to allow HR administrators to edit and manage employee details.
 - Enhanced administrative capabilities and data management through a centralized control interface.
