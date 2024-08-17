@@ -18,6 +18,7 @@ This project involved the development of a comprehensive HR portal application u
 ### 3. Leave Management
 - Created a leave application feature integrated with Power Automate.
 - Implemented an approval flow where managers receive email notifications for leave requests.
+<img width="957" alt="EmployeeReg" src="https://github.com/user-attachments/assets/30b495bb-54f9-4f24-9045-17e0bdd3d32a">
 
 ### 4. Issue Tracking
 - Designed and implemented an issue tracking system for employees.
